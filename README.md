@@ -1,3 +1,5 @@
+This is a fork of Koomook/claude-frontend-skills.
+
 # Claude Frontend Skills
 
 A Claude Code skills plugin for creating distinctive, non-generic frontend designs. This plugin helps Claude avoid "AI slop" aesthetics (generic Inter fonts, purple gradients, minimal animations) and instead create bold, memorable interfaces.
@@ -23,7 +25,7 @@ npm install -g @bong/claude-frontend-skills
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Koomook/claude-frontend-skills.git
+git clone https://github.com/edkaydev/claude-frontend-skills.git
 ```
 
 2. Install the plugin in your Claude Code skills directory:
@@ -201,9 +203,9 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## Links
 
-- [GitHub Repository](https://github.com/Koomook/claude-frontend-skills)
+- [GitHub Repository](https://github.com/edkaydev/claude-frontend-skills)
 - [npm Package](https://www.npmjs.com/package/@bong/claude-frontend-skills)
-- [Issue Tracker](https://github.com/Koomook/claude-frontend-skills/issues)
+- [Issue Tracker](https://github.com/edkaydev/claude-frontend-skills/issues)
 - [Anthropic Blog Post](https://www.claude.com/blog/improving-frontend-design-through-skills)
 
 ## Support
